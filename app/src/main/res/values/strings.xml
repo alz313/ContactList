@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="loading_contacts">Loading Contacts...</string>
+
+
+    <string name="action_sort_az">Sort By A-Z</string>
+    <string name="action_sort_za">Sort By Z-A</string>
+
+    <string name="contact_id_label">Contact id</string>
+    <string name="contact_username_label">Username</string>
+    <string name="contact_email_label">Email</string>
+    <string name="contact_address_street_label">Street address</string>
+    <string name="contact_address_suite_label">Suite</string>
+    <string name="contact_address_city_label">City</string>
+    <string name="contact_address_zipcode_label">Zipcode</string>
+    <string name="contact_address_label">Address</string>
+    <string name="contact_geo_lat_label">Geographical latitude</string>
+    <string name="contact_geo_lng_label">Geographical longitude</string>
+    <string name="contact_phone_label">Phone</string>
+    <string name="contact_website_label">Website</string>
+    <string name="contact_company_name_label">Company name</string>
+    <string name="contact_catch_phrase_label">Catch phrase</string>
+    <string name="contact_company_bs_label">BS</string>
+</resources>
